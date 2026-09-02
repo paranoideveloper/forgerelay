@@ -1,0 +1,6 @@
+Xray 26.2.6 (Xray, Penetrates Everything.) 12ee51e (go1.25.7 linux/amd64)
+A unified platform for anti-censorship.
+2026/08/30 15:13:16.241747 [Info] infra/conf/serial: Reading config: &{Name:cl-host.json Format:json}
+2026/08/30 15:13:16.245925 [Warning] common/errors: The feature VLESS (with no Flow, etc.) is deprecated, not recommended for using and might be removed. Please migrate to VLESS with Flow & Seed as soon as possible.
+2026/08/30 15:13:16.248527 [Warning] core: Xray 26.2.6 started
+2026/08/30 15:13:21.231578 from tcp:127.0.0.1:19326 accepted tcp:api.ipify.org:443

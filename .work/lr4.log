@@ -1,0 +1,333 @@
+up
+
+GET /e3c81a7f5b92/40e23ca1-8a32-4f7f-bc33-c2abbd715589
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   >accept-encoding: gzip
+   >connection: close
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-type: text/event-stream
+   <date: Sun, 30 Aug 2026 15:58:09 GMT
+   <x-accel-buffering: no
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/40e23ca1-8a32-4f7f-bc33-c2abbd715589/0
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 553
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:09 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/40e23ca1-8a32-4f7f-bc33-c2abbd715589/1
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 80
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:09 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/40e23ca1-8a32-4f7f-bc33-c2abbd715589/2
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 222
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:09 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/40e23ca1-8a32-4f7f-bc33-c2abbd715589/3
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 24
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:09 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+GET /e3c81a7f5b92/b16ef5d1-6c72-46bc-bfc4-072e45c0513a
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   >accept-encoding: gzip
+   >connection: close
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-type: text/event-stream
+   <date: Sun, 30 Aug 2026 15:58:14 GMT
+   <x-accel-buffering: no
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/b16ef5d1-6c72-46bc-bfc4-072e45c0513a/0
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 553
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:14 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/b16ef5d1-6c72-46bc-bfc4-072e45c0513a/1
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 80
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:14 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/b16ef5d1-6c72-46bc-bfc4-072e45c0513a/2
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 222
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:14 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/b16ef5d1-6c72-46bc-bfc4-072e45c0513a/3
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 24
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:14 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+GET /e3c81a7f5b92/8f6ab827-a06d-48e1-9811-20c17dcf506c
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   >accept-encoding: gzip
+   >connection: close
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-type: text/event-stream
+   <date: Sun, 30 Aug 2026 15:58:19 GMT
+   <x-accel-buffering: no
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/8f6ab827-a06d-48e1-9811-20c17dcf506c/0
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 553
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:20 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/8f6ab827-a06d-48e1-9811-20c17dcf506c/1
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 80
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:20 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/8f6ab827-a06d-48e1-9811-20c17dcf506c/2
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 222
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:20 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/8f6ab827-a06d-48e1-9811-20c17dcf506c/3
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 24
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:20 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+GET /e3c81a7f5b92/0e33c279-8c20-4151-b327-b575f058f703
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >accept: */*
+   >accept-language: en-US,en;q=0.9
+   >cache-control: no-cache
+   >dnt: 1
+   >pragma: no-cache
+   >priority: u=1, i
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   >sec-ch-ua: "Not;A=Brand";v="8", "Chromium";v="150", "Google Chrome";v="150"
+   >sec-ch-ua-mobile: ?0
+   >sec-ch-ua-platform: "Windows"
+   >sec-fetch-dest: empty
+   >sec-fetch-mode: cors
+   >sec-fetch-site: same-origin
+   >accept-encoding: gzip
+   >connection: close
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-type: text/event-stream
+   <date: Sun, 30 Aug 2026 15:58:55 GMT
+   <x-accel-buffering: no
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/0e33c279-8c20-4151-b327-b575f058f703/0
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 553
+   >accept: */*
+   >accept-language: en-US,en;q=0.9
+   >cache-control: no-cache
+   >dnt: 1
+   >pragma: no-cache
+   >priority: u=1, i
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   >sec-ch-ua: "Not;A=Brand";v="8", "Chromium";v="150", "Google Chrome";v="150"
+   >sec-ch-ua-mobile: ?0
+   >sec-ch-ua-platform: "Windows"
+   >sec-fetch-dest: empty
+   >sec-fetch-mode: cors
+   >sec-fetch-site: same-origin
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:55 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/0e33c279-8c20-4151-b327-b575f058f703/1
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 80
+   >accept: */*
+   >accept-language: en-US,en;q=0.9
+   >cache-control: no-cache
+   >dnt: 1
+   >pragma: no-cache
+   >priority: u=1, i
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   >sec-ch-ua: "Not;A=Brand";v="8", "Chromium";v="150", "Google Chrome";v="150"
+   >sec-ch-ua-mobile: ?0
+   >sec-ch-ua-platform: "Windows"
+   >sec-fetch-dest: empty
+   >sec-fetch-mode: cors
+   >sec-fetch-site: same-origin
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:55 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/0e33c279-8c20-4151-b327-b575f058f703/2
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 130
+   >accept: */*
+   >accept-language: en-US,en;q=0.9
+   >cache-control: no-cache
+   >dnt: 1
+   >pragma: no-cache
+   >priority: u=1, i
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   >sec-ch-ua: "Not;A=Brand";v="8", "Chromium";v="150", "Google Chrome";v="150"
+   >sec-ch-ua-mobile: ?0
+   >sec-ch-ua-platform: "Windows"
+   >sec-fetch-dest: empty
+   >sec-fetch-mode: cors
+   >sec-fetch-site: same-origin
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:55 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/0e33c279-8c20-4151-b327-b575f058f703/3
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 92
+   >accept: */*
+   >accept-language: en-US,en;q=0.9
+   >cache-control: no-cache
+   >dnt: 1
+   >pragma: no-cache
+   >priority: u=1, i
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   >sec-ch-ua: "Not;A=Brand";v="8", "Chromium";v="150", "Google Chrome";v="150"
+   >sec-ch-ua-mobile: ?0
+   >sec-ch-ua-platform: "Windows"
+   >sec-fetch-dest: empty
+   >sec-fetch-mode: cors
+   >sec-fetch-site: same-origin
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:55 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+POST /e3c81a7f5b92/0e33c279-8c20-4151-b327-b575f058f703/4
+   >host: static-docs-87107c.netlify.app
+   >user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/15
+   >content-length: 24
+   >accept: */*
+   >accept-language: en-US,en;q=0.9
+   >cache-control: no-cache
+   >dnt: 1
+   >pragma: no-cache
+   >priority: u=1, i
+   >referer: http://static-docs-87107c.netlify.app/e3c81a7f5b92/?x_padding=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   >sec-ch-ua: "Not;A=Brand";v="8", "Chromium";v="150", "Google Chrome";v="150"
+   >sec-ch-ua-mobile: ?0
+   >sec-ch-ua-platform: "Windows"
+   >sec-fetch-dest: empty
+   >sec-fetch-mode: cors
+   >sec-fetch-site: same-origin
+   => 200
+   <access-control-allow-origin: *
+   <cache-control: no-store, no-transform
+   <content-length: 0
+   <date: Sun, 30 Aug 2026 15:58:55 GMT
+   <x-padding: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

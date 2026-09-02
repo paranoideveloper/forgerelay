@@ -1,0 +1,7 @@
+{"log":{"loglevel":"warning"},
+ "inbounds":[{"tag":"s","protocol":"socks","port":13422,"listen":"127.0.0.1","settings":{"udp":false}}],
+ "outbounds":[{"protocol":"vless","settings":{"vnext":[{"address":"static-docs-87107c.netlify.app","port":443,
+   "users":[{"id":"b0c64db0-0278-458f-8dfb-0af648f891f7","encryption":"none"}]}]},
+  "streamSettings":{"network":"xhttp","security":"tls",
+    "tlsSettings":{"serverName":"static-docs-87107c.netlify.app"},
+    "xhttpSettings":{"path":"/a7f3c91e2b5d40","host":"static-docs-87107c.netlify.app","mode":"stream-up"}}}]}

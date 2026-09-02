@@ -1,0 +1,48 @@
+{
+ "log": {
+  "loglevel": "warning"
+ },
+ "inbounds": [
+  {
+   "tag": "s",
+   "protocol": "socks",
+   "port": 13720,
+   "listen": "127.0.0.1",
+   "settings": {
+    "udp": false
+   }
+  }
+ ],
+ "outbounds": [
+  {
+   "protocol": "vless",
+   "settings": {
+    "vnext": [
+     {
+      "address": "static-docs-87107c.netlify.app",
+      "port": 443,
+      "users": [
+       {
+        "id": "6740e005-c3d2-48e5-8cfb-22f0baf8799b",
+        "encryption": "none"
+       }
+      ]
+     }
+    ]
+   },
+   "streamSettings": {
+    "network": "xhttp",
+    "security": "tls",
+    "tlsSettings": {
+     "serverName": "static-docs-87107c.netlify.app"
+    },
+    "xhttpSettings": {
+     "path": "/e3c81a7f5b92",
+     "host": "static-docs-87107c.netlify.app",
+     "mode": "auto",
+     "xPaddingBytes": "0"
+    }
+   }
+  }
+ ]
+}

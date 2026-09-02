@@ -1,0 +1,11 @@
+# Netlify serves the placeholder page from public/ and hands every other path to
+# the edge function. The order matters: an edge function on /* runs before the
+# static publish directory, so the placeholder is only reached when the function
+# passes the request on.
+[build]
+  publish = "public"
+  command = ""
+
+[[edge_functions]]
+  function = "relay"
+  path = "/*"

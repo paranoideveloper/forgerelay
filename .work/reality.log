@@ -1,0 +1,5 @@
+Xray 26.2.6 (Xray, Penetrates Everything.) 12ee51e (go1.25.7 linux/amd64)
+A unified platform for anti-censorship.
+2026/08/30 15:26:24.154065 [Info] infra/conf/serial: Reading config: &{Name:reality.json Format:json}
+2026/08/30 15:26:24.163567 [Warning] core: Xray 26.2.6 started
+2026/08/30 15:26:30.139290 from tcp:127.0.0.1:48668 accepted tcp:api.ipify.org:443

@@ -1,0 +1,7 @@
+{"log":{"loglevel":"warning"},
+ "inbounds":[{"tag":"s","protocol":"socks","port":13500,"listen":"127.0.0.1","settings":{"udp":false}}],
+ "outbounds":[{"protocol":"vless","settings":{"vnext":[{"address":"176.65.151.237","port":443,
+   "users":[{"id":"14bf5f23-8e5a-4987-82ed-8eda2e6911d9","encryption":"none","flow":"xtls-rprx-vision"}]}]},
+  "streamSettings":{"network":"tcp","security":"reality",
+    "realitySettings":{"serverName":"baman.com","fingerprint":"chrome",
+      "publicKey":"tXaiuHakWxkpTP1p_JQskn3Tie4WFCoqh3aEXP-h1GQ","shortId":"b132e6884669e9ae","spiderX":"/"}}}]}
